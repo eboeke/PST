@@ -1,6 +1,7 @@
 function PST(subjectcode,skip_train,stims)
 %implements Michael Frank's probabalistic selection task (ala Frank et al,
 %Science, 2004)
+%Author: Emily Boeke
 %args:
 %   subjectcode, a string
 %   skip_train, a bool indicating whether to skip the training phase (use
